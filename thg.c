@@ -92,4 +92,5 @@ int main(void) {
         printf("8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t\n", (count + 1), _89, (count + 1), (_89 + (rand()%3) - (rand()%3)), (count + 1), (_89 + (rand()%3) - (rand()%3)), (count + 1), (_89 + (rand()%3) - (rand()%3)), (count + 1), (_89 + (rand()%3) - (rand()%3)), (count + 1), (_89 + (rand()%3) - (rand()%3)), (count + 1), (_89 + (rand()%3) - (rand()%3)), (count + 1), (_89 + (rand()%3) - (rand()%3)));
         count = count + 1;
         printf("8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t8F - %d = %d\t\n", (count + 1), _80, (count + 1), (_80 + (rand()%3) - (rand()%3)), (count + 1), (_80 + (rand()%3) - (rand()%3)), (count + 1), (_80 + (rand()%3) - (rand()%3)), (count + 1), (_80 + (rand()%3) - (rand()%3)), (count + 1), (_80 + (rand()%3) - (rand()%3)), (count + 1), (_80 + (rand()%3) - (rand()%3)), (count + 1), (_80 + (rand()%3) - (rand()%3)));
-printf("\n\n\n");
+        printf("\n\n\n");
+}
